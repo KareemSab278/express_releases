@@ -1,0 +1,6 @@
+{
+    "version": "0.2.1",
+    "release_date": "2026-08-13",
+    "download_url": "https://github.com/KareemSab278/express_releases/blob/main/RELEASE/express_0.2.1_arm64.deb",
+    "notes": "Improved stability with payments, door locks, and led control. Confirmed cpu and memory leak fixed."
+}
