@@ -1,6 +1,6 @@
 {
     "version": "0.2.2",
-    "release_date": "2026-08-13",
+    "release_date": "2026-08-14",
     "download_url": "https://github.com/KareemSab278/express_releases/blob/main/RELEASE/express_0.2.2_arm64.deb",
-    "notes": "Added camera recording support for payment verification with the DECXIN-1M-2012V1 camera."
+    "notes": "Added camera recording support for payment verification with the DECXIN-1M-2012V1 camera with auto backup."
 }
